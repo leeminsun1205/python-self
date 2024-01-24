@@ -7,4 +7,3 @@ if __name__ == '__main__':
     result = [i for i in l if sum(i) != n]
     print(result)
     
-    
